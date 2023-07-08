@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-app",
+  "name": "danny-devs-dot-com",
   "private": true,
   "scripts": {
     "build": "nuxt build",
@@ -9,9 +9,11 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
+    "@element-plus/nuxt": "^1.0.5",
     "@nuxt/devtools": "latest",
     "@nuxtjs/tailwindcss": "^6.8.0",
     "@types/node": "^18",
+    "element-plus": "^2.3.7",
     "nuxt": "^3.6.2"
   }
 }
